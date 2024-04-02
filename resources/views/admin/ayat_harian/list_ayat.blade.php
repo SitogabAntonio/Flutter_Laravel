@@ -68,6 +68,8 @@
 </div>
 <!-- Simple Datatable End -->
 
+
+
 @endsection
 @section('script')
 @endsection
